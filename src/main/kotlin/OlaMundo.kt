@@ -1,4 +1,4 @@
 fun main() {
-    val olaMundo = "Olá mundo!";
-    println(olaMundo);
+    val olaMundo = "Olá mundo!"
+    println(olaMundo)
 }
